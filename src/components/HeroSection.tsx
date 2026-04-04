@@ -78,7 +78,6 @@ const HeroSection = () => {
           <div className="mt-10 flex flex-wrap gap-x-8 gap-y-2 text-primary-foreground/40 text-sm font-body tracking-wide">
             <span>No long-term contracts</span>
             <span className="text-gold/30">·</span>
-            <span>Transparent pricing</span>
             <span className="text-gold/30">·</span>
             <span>Quick onboarding</span>
           </div>

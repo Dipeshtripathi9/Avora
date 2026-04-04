@@ -8,7 +8,6 @@ import ImpactSection from "@/components/ImpactSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import TrustSection from "@/components/TrustSection";
 import ProcessSection from "@/components/ProcessSection";
-import PricingSection from "@/components/PricingSection";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import DifferentiatorSection from "@/components/DifferentiatorSection";
 import FinalCTA from "@/components/FinalCTA";
@@ -25,7 +24,6 @@ const Index = () => (
     <TestimonialsSection />
     <TrustSection />
     <ProcessSection />
-    <PricingSection />
     <WhyChooseUs />
     <DifferentiatorSection />
     <FinalCTA />

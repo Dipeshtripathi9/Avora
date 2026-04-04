@@ -23,16 +23,18 @@ const ServiceContact = () => (
 
         <div className="flex flex-wrap justify-center gap-4 mb-8">
           <a
-            href="mailto:dipeshtripathi01@gmail.com"
+            href="mailto:247servicepoint@gmail.com"
             className="inline-flex items-center gap-3 bg-gold text-accent-foreground px-10 py-4 rounded-full font-body font-semibold text-base hover:shadow-gold transition-all duration-300 uppercase tracking-wider"
           >
             <Mail className="w-5 h-5" /> Book Free Consultation <ArrowRight className="w-5 h-5" />
           </a>
           <a
-            href="tel:+44123456789"
+            href="https://wa.me/7783979187?text=Hi%20I%20want%20a%20free%20consultation"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-primary-foreground/20 text-primary-foreground px-8 py-4 rounded-full font-body font-medium text-base hover:border-gold/40 hover:text-gold transition-all duration-300 uppercase tracking-wider"
           >
-            <Phone className="w-4 h-4" /> Call Us
+             Whatsapp 
           </a>
         </div>
 

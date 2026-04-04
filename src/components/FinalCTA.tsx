@@ -23,11 +23,11 @@ const FinalCTA = () => (
           No pressure. No commitment. Just a clear discussion about your needs.
         </p>
         <a
-          href="dipeshtripathi01@gmail.com"
-          className="inline-flex items-center gap-3 bg-gold text-accent-foreground px-10 py-4 rounded-full font-body font-semibold text-lg hover:shadow-gold transition-all duration-300 uppercase tracking-wider"
-        >
-          Book Your Free Consultation <ArrowRight className="w-5 h-5" />
-        </a>
+  href="mailto:247servicepoint@gmail.com"
+  className="inline-flex items-center gap-3 bg-gold text-accent-foreground px-10 py-4 rounded-full font-body font-semibold text-lg hover:shadow-gold transition-all duration-300 uppercase tracking-wider"
+>
+  Book Your Free Consultation <ArrowRight className="w-5 h-5" />
+</a>
       </motion.div>
     </div>
   </section>
